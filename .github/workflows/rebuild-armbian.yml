@@ -29,7 +29,7 @@ on:
           - chainedbox
           - crrc
           - dg3399
-          - dlfr100
+          - dlfr100 
           - e20c
           - e25
           - eaidk-610
@@ -50,6 +50,7 @@ on:
           - kylin3399
           - leez
           - lx-r3s
+          - wf7000a 
           - mrkaio-m68s
           - nanopi-r5c
           - nanopi-r5s
